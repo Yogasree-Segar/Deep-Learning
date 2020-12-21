@@ -1,0 +1,12 @@
+
+Binary classification
+
+Dataset is available at to be downloaded
+https://www.microsoft.com/en-us/download/details.aspx?id=54765
+
+Multiclass classification
+
+Dataset is available at
+https://www.cs.toronto.edu/~kriz/cifar.html 
+(or) can be loaded with keras.
+

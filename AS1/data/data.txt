@@ -1,0 +1,13 @@
+***Question 1***
+The dataset used for question 1 is CIFAR10. It is imported to the code directly from the code
+from keras.datasets import cifar10.
+It is also obtained from the site:
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+***Question 2***
+The dataset used for question 2 is spambase obtained from the site
+https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/
+
+***Question 3***
+The dataset used for question 3 is communities obtained from the site
+https://archive.ics.uci.edu/ml/machine-learning-databases/communities/

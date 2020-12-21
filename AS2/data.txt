@@ -1,0 +1,4 @@
+CIFAR10 is obtained from:
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+This data can also be loaded from keras module.

@@ -1,0 +1,11 @@
+The UCI dataset is available at 
+http://archive.ics.uci.edu/ml/machine-learning-databases/00388/
+
+The images are available at
+https://archive.physionet.org/cgi-bin/atm/ATM
+
+The selected images are available at 
+https://drive.google.com/drive/u/1/folders/1BGlMWhl6g84lCY54r_mqyN3knR6HNLvZ
+
+where class 1 is ictal
+and class 2 is preictal

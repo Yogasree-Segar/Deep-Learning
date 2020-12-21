@@ -1,0 +1,7 @@
+The data for the programs are obtained from
+
+https://archive.ics.uci.edu/ml/datasets/Car+Evaluation (classification)
+
+https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized (regression)
+
+The datasets are also attached and given with this file.
